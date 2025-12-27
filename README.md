@@ -60,3 +60,12 @@ GET | `/api/alerts` | Get stock alerts |
 cd backend
 npm install
 npm start
+```
+
+### Frontend
+```bash
+cd frontend
+npm install
+npm run dev
+
+
